@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Orbitron:wght@400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body{
+    background-color: rgb(10, 10, 10);
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+}
+
+#title{
+    font-family: 'Orbitron', sans-serif;
+}
+
+#schedule-list{
+    width: 80%;
+    margin: auto;
+}
+
+#schedule-item{
+    margin: 20px;
+    background-color: rgb(20, 20, 20);
+    color: rgb(210, 210, 210);
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(50, 50, 50);
+    display: flex;
+    align-self: flex-start;
+    gap: 30px;
+}
+
+.rocket-image{
+    width: 40%;
+    border-radius: 20px;
+    border: 1px solid rgb(50, 50, 50);
+}
+
+.info{
+    text-align: start;
+}
+
+p{
+    font-size: 0.8rem;
+    color: rgb(190, 190, 190);
+}
+
+@media (max-width: 768px){
+    #schedule-list{
+        width: 95%;
+    }
+
+    #schedule-item{
+        flex-direction: column;
+        margin: 15px 10px;
+        padding: 15px;
+        gap: 15px;
+    }
+
+    .rocket-image{
+        width: 100%;
+    }
+    
+}
+
