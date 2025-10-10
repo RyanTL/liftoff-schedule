@@ -9,7 +9,7 @@ A simple, real-time rocket launch tracker that displays upcoming rocket launches
 - Image and mission details
 - Fetches data from The Space Devs Launch Library 2 API
 
-##Link
+## Link
 - https://liftoff-schedule.netlify.app/
 
 ## Tech Stack
