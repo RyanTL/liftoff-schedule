@@ -1,6 +1,6 @@
 # 🚀 Liftoff Schedule
 
-A simple, real-time rocket launch tracker that displays upcoming rocket launches with live countdown timers. I built this app for fun and to learn about APIs and also because me and my family wanted an easy way to keep track of the next liftoff. I deployed it on Netlify for our own use.
+A simple, real-time rocket launch tracker that displays upcoming rocket launches with live countdown timers. I built this app for fun and to learn about APIs and also because me and my family wanted an easy way to keep track of the next liftoff. I deployed it on Netlify for family use.
 
 ## Features
 
@@ -14,7 +14,7 @@ A simple, real-time rocket launch tracker that displays upcoming rocket launches
 
 ## Tech Stack
 
-- HTML/CSS/JavaScript (vanilla)
+- HTML/CSS/JavaScript
 - [Launch Library 2 API](https://ll.thespacedevs.com/2.2.0/) by The Space Devs
 
 ## How It Works
